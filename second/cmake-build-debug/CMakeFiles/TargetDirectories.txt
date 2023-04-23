@@ -1,0 +1,3 @@
+/Users/anastasiakolomnikova/Documents/GitHub/OS_IHW3/second_1/cmake-build-debug/CMakeFiles/second_1.dir
+/Users/anastasiakolomnikova/Documents/GitHub/OS_IHW3/second_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anastasiakolomnikova/Documents/GitHub/OS_IHW3/second_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
