@@ -1,0 +1,1 @@
+The requirement for the implementation and evaluation of task No. 2 "Using semaphores to organize the interaction of parallel processes"
