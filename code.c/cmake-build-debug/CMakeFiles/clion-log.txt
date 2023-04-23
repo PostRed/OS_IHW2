@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/anastasiakolomnikova/Documents/GitHub/OS_IHW3/code.c Select CMakeLists.txt
