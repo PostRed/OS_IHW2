@@ -16,7 +16,13 @@
 
 Результаты прогонов по тестам лежат [тут](https://github.com/PostRed/OS_IHW3/tree/main/results/first)
 
+:white_check_mark:  Программа на 5 баллов:
 
+Сам код лежит [здесь](https://github.com/PostRed/OS_IHW3/blob/main/second/main.c)
+
+Множество процессов взаимодействуют с использованием семафоров в стандарте UNIX SYSTEM V. Обмен данными ведется через разделяемую память в стандарте UNIX SYSTEM V.
+
+Результаты прогонов по тестам лежат [тут](https://github.com/PostRed/OS_IHW3/tree/main/results/second)
 
 :white_check_mark:  Результаты тестирования:
 
